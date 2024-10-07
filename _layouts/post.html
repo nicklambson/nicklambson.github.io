@@ -22,7 +22,7 @@ layout: main
       {{content | markdownify}}
       <div class="page-footer">
         <div class="page-share">
-          <a href="https://www.linkedin.com/shareArticle?mini=true&url={{ site.url }}{{ page.url }}&title={{ page.title }}&summary={{ page.excerpt }}&source={{ site.name }}" title="Share on LinkedIn" rel="nofollow" target="_blank">LinkedIn</a>
+          <a href="https://www.linkedin.com/shareArticle?mini=true&url={{ site.url }}{{ page.url }}" title="Share on LinkedIn" rel="nofollow" target="_blank">LinkedIn</a>
         </div>
         <div class="page-tag">
           {% for tag in page.tags %}
@@ -34,3 +34,4 @@ layout: main
     </div> <!-- End Wrap Content -->
   </div> <!-- End Page Content -->
 </article> <!-- End Article Page -->
+<!-- LinkedIn Post Link removed... &title={{ page.title }}&summary={{ page.excerpt }}&source={{ site.name }} -->

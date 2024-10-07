@@ -2,7 +2,7 @@
 layout: post
 title: LangOps gives localization new wings to fly in the AI Era
 date: 2024-08-22 10:00:00 +0000
-description: "LangOps doesn't replace localization. Instead, it gives localization new wings to fly in the AI era."
+description: LangOps doesn't replace localization. Instead, it gives localization new wings to fly in the AI era.
 img: langops-visualization.jpg
 tags: [localization, ai, langops]
 categories: [blog]
