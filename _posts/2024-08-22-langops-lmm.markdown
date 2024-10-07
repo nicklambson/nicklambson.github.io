@@ -9,6 +9,8 @@ categories: [blog]
 author: Nick Lambson
 ---
 
+LangOps doesn't replace localization. Instead, it gives localization new wings to fly in the AI era.
+
 # Background
 
 The twelve principles of LangOps give localization teams the roadmap and tools for advancing up Common Sense Advisory's Localization Maturity Model. By the time an organization reaches localization maturity level five, it is no longer practicing localization, but LangOps. At that point, language has been fully integrated into the DNA of the company.
@@ -75,7 +77,7 @@ Although AI will find a role to play in every process, human oversight over thos
 
 Common Sense Advisory modifies the buzzphrase human-in-the-loop (HITL) to human-at-the-core, recognizing that humans are actually moving deeper into language processes. "The fact that human contributions are increasing in value argues against a simple replacement theory."
 
-# Expect transparency, control and scalability:
+# Expect transparency, control and scalability
 
 > We create scalable, transparent, easy-to-use systems. We can control and change the systems to improve the process.
 
@@ -89,7 +91,7 @@ But WorldServer is not for everyone, and neither is its price tag. The emergence
 
 Level 4 of CSA's localization maturity model enshrines these values, but it's LangOps, with highly-customizable LLMs and post-TMS that most effectively realizes these goals.
 
-# Process data in real time:
+# Process data in real time
 
 > The world is moving to dynamic content creation. We build with real time at the core.
 
@@ -99,7 +101,7 @@ In the AI era, that assumption no longer holds true. To a large degree, real-tim
 
 Of course, real-time processing of user generated data has going on for 10 years before the advent of ChatGPT, using statistical and neural MT. But does the term "localization" encompass these activities? I believe LangOps, with its focus on real-time data processing, more effectively embodies these activities, and that eBay and TripAdvisor were practicing LangOps even before they knew what to call it.
 
-# Build language-agnostic:
+# Build language-agnostic
 
 > We design all processes and supporting systems with ease of scaling to new languages. We dynamically integrate language into our products without any hardwiring.
 
@@ -107,7 +109,7 @@ In traditional language services, the ability to scale to new languages comes as
 
 Although localization benefits from internationalization, localization as a concept and activity stands distinct from internationalization. LangOps, on the other hand, integrates internationalization as a key activity with this principle: build language-agnostic.
 
-# Promote interdisciplinary knowledge:
+# Promote interdisciplinary knowledge
 
 > We train LangOps in the different areas required to be efficient. We continuously enable teams to evolve and learn new skills.
 
@@ -115,7 +117,7 @@ LangOps professionals need to have a multidisciplinary skill set, encompassing e
 
 This interdisciplinary approach differs from traditional localization, which primarily focuses on adapting content for a specific locale rather than integrating into a variety of business functions. While localization often works in silos, addressing language adaptation as an isolated task, LangOps embraces a cross-functional methodology, aiming to embed linguistic capabilities into the fabric of the entire enterprise.
 
-# Leverage available data and tech:
+# Leverage available data and tech
 
 > We make use of available tools and data collections. We strictly account for total cost of ownership in buy or build situations.
 
@@ -123,7 +125,7 @@ LangOps thrives on standing on the shoulders of giants by leveraging existing op
 
 This approach can be distinguished from traditional localization, which might heavily invest in bespoke translation tools or proprietary databases without as broad an integration perspective. By leveraging communal advancements and shared resources, LangOps allows for more efficient scaling and innovation.
 
-# Be at the forefront:
+# Be at the forefront
 
 > We invest time to research and study academic and commercial advances. We future proof LangOps by constantly pushing the boundaries.
 
