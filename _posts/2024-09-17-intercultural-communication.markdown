@@ -3,9 +3,9 @@ layout: post
 title: Intercultural Communication Training for China Export and Credit Insurance
 date: 2024-09-17 10:00:00 +0000
 description: "Unlocking Global Potential: Bridging Cultures through Innovative Intercultural Communication Training at SINOSURE."
-img: sinosure-group.jpg
+img: sinosure-group-compressed.jpg
 fig-caption: SINOSURE directors and executives pose for a photo at the SINOPEC party training center.
-tags: [culture, business]
+tags: [culture, china, business]
 categories: [blog]
 author: Nick Lambson
 ---
