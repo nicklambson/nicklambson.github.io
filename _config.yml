@@ -9,7 +9,15 @@ site-twitter: #if your site has a twitter account, enter it here
 # Author Settings
 author: Nick Lambson # add your name
 author-img: nick-lambson-portrait.jpg # add your photo
-about-author: I am a localization engineer and teacher. # add description
+about-author: Senior Foreign Teacher at Beijing Language and Culture University
+
+Staff Localization Engineer at MediaLocate
+
+Bachelor of Music in Sound Recording Technology, double major in Russian Studies from Brigham Young University
+
+Master of Arts in Translation and Localization Management from Middlebury Institute of International Studies at Monterey
+
+ # add description
 social-github: nicklambson # add your Github handle
 social-linkedin: nicklambson
 social-email: nicklambson_at_blcu_dot_edu_dot_cn@spam_prevention.com
