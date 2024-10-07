@@ -14,6 +14,8 @@ The Chinese Academy of Translation published an article detailing the intercultu
 
 A machine translation of the article is below.
 
+# Chinese Academy of Translation Article
+
 Dang Research Institute and Sinosure jointly held the 2024 International Exchange Expert Training Course
 
 China Translation Institute September 23, 2024 11:20 Beijing
