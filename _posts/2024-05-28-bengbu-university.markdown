@@ -3,7 +3,7 @@ layout: post
 title: AI for Cultural Translation - Guest Lecture at Bengbu University
 date: 2024-05-28 10:00:00 +0000
 description: 
-img: bengbu-presentation.jpg
+img: bengbu-presentation.png
 tags: [localization, ai, culture, china]
 categories: [blog]
 author: Nick Lambson
