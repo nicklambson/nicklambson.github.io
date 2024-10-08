@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Suzhou University welcomes keynote speaker Nick Lambson
+title: AI in Foreign Language Education at Suzhou University - Keynote Speech
 date: 2024-09-21 10:00:00 +0000
 description: Nick Lambson delivers speech at international conference on AI in Foreign Language Education.
 img: suzhou-ai-panel.jpg
