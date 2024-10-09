@@ -9,7 +9,7 @@ categories: [blog]
 author: Nick Lambson
 ---
 
-Today I passed the PCPP exam. It's the third level in the sequence of PCEP (entry-level), PCAP (associate-level), and PCPP (professional-level). Unlike the PCAP and PCEP, the content of this exam was both broad and deep. I spent dozens of hours studying for the exam. I purchased ![this course](https://www.udemy.com/course/pcpp1-become-certified-professional-in-python-programming-1/) on Udemy which helped a lot. I highly recommend it.
+Today I passed the PCPP exam. It's the third level in the sequence of PCEP (entry-level), PCAP (associate-level), and PCPP (professional-level). Unlike the PCAP and PCEP, the content of this exam was both broad and deep. I spent dozens of hours studying for the exam. I purchased [this course](https://www.udemy.com/course/pcpp1-become-certified-professional-in-python-programming-1/) on Udemy which helped a lot. I highly recommend it.
 
 # Why Python
 As a staff localization engineer, I make decisions about software and technology stacks that enable my fellow engineers to work more effectively. Python is a key part of that stack for several reasons.
@@ -21,9 +21,14 @@ As a staff localization engineer, I make decisions about software and technology
  - Python is well-supported. Python is one of the most well-supported and well-documented programming languages online. You can find tutorials on any topic in any language, whether English, Chinese, or Russian. Python is supported by a wide range of well-established third-party libraries like pandas for data science and lxml for xml manipulation. These libraries are the bread and butter of localization engineering.
 
  # What's on the PCPP Exam
+
 The PCPP exam is split into five areas:
-1. Advanced Object Oriented Programming (35%): this module is the most in-depth of the five of them.
-2. Coding Conventions, Best Practices, and Standarization (12%)
-3. GUI Programming (20%) This is one of my favorites because now I build graphical user interfaces all the time.
+
+1. Advanced Object Oriented Programming: this module is the most in-depth of the five of them. It's essential knowledge. This module gives you kep skills in building classes.
+2. Coding Conventions, Best Practices, and Standarization: I enjoyed this module for its usefulness and applicability to a team. When everyone follows coding conventions, best practices, and standardization, it makes everyone's life easier.
+3. GUI Programming (20%) This is one of my favorites because now I build graphical user interfaces all the time. I like the simplicity of tkinter, and strangely, I have come to prefer the .pack() method over .grid() and .place(). It's more elegant, and if you're smart, you can still make it look great.
 4. Network programming. I use the skills here a lot as I interact with APIs for machine translation or AI.
-5. File Processing and Communicating with a Program’s Environment ()
+5. File Processing and Communicating with a Program’s Environment: This one is so applicable because localization engineers deal with files so often.
+
+# The PCPP is Essential
+Localization engineers should absolutely consider getting PCPP certified. The skills taught by this exam are foundational to any localization engineer's work.
