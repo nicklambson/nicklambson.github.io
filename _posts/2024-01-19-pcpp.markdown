@@ -31,9 +31,13 @@ As a staff localization engineer, I make decisions about software and technology
 The PCPP exam is split into five areas:
 
 1. **Advanced Object Oriented Programming**: this module is the most in-depth of the five of them. It's essential knowledge, giving you the tools to build scalable, modular, object-oriented programs in Python.
+
 2. **Coding Conventions, Best Practices, and Standarization**: I enjoyed this module for its usefulness and applicability to a team. When everyone follows coding conventions, best practices, and standardization, it makes everyone's life easier.
+
 3. **GUI Programming** I build graphical user interfaces all the time. I like the simplicity of tkinter, and strangely, I have come to prefer the .pack() method over .grid() and .place(). It's more elegant, and if you're savvy, you can still make it look great.
+
 4. **Network programming**. I use the skills here a lot as I interact with APIs for machine translation or AI.
+
 5. **File Processing and Communicating with a Program’s Environmen**t: This one is so applicable because dealing with files is a fundamental part of localization engineering.
 
 # How to Prepare for the PCPP Exam
@@ -43,17 +47,15 @@ Preparing for the PCPP exam requires a structured approach to ensure you thoroug
 
 2. **Study OpenEDG Materials**: Utilize the [OpenEDG study materials](https://edube.org/study), which require approximately 119 hours to complete. By dedicating seven hours per week, you can finish in about 17 weeks, or roughly four months.
 
-3. **Engage with Chapter Quizzes**: As you progress through the chapters, take the quizzes seriously. Capture screenshots of any questions you find challenging or don't understand.
+3. **Engage with Chapter Quizzes**: As you progress through the chapters, take the quizzes seriously. Capture screenshots of any questions you find challenging or don't understand. Research the correct answers. Use resources like ChatGPT to gain a deeper understanding. Document these insights in your study guide.
 
-4. **Research and Clarify**: For questions you answered incorrectly, research the correct answers. Use resources like ChatGPT to gain a deeper understanding. Document these insights in your study guide.
+4. **Practice Labs**: Complete the practice labs to apply your new knowledge in real-world programming scenarios. This hands-on experience is crucial for reinforcing what you've learned.
 
-5. **Practice Labs**: Complete the practice labs to apply your new knowledge in real-world programming scenarios. This hands-on experience is crucial for reinforcing what you've learned.
+5. **Plan Your Exam Date**: Once you finish the OpenEDG materials, schedule your official exam about six weeks in advance. This gives you ample time for final preparations. The cost of the exam is USD 225.
 
-6. **Plan Your Exam Date**: Once you finish the OpenEDG materials, schedule your official exam about six weeks in advance. This gives you ample time for final preparations. The cost of the exam is USD 225.
+6. **Supplement with Udemy Course**: Purchase the [PCPP1 course on Udemy](https://www.udemy.com/course/pcpp1-become-certified-professional-in-python-programming-1/), which includes six practice exams. Take one practice exam each week leading up to the official exam.
 
-7. **Supplement with Udemy Course**: Purchase the [PCPP1 course on Udemy](https://www.udemy.com/course/pcpp1-become-certified-professional-in-python-programming-1/), which includes six practice exams. Take one practice exam each week leading up to the official exam.
-
-8. **Analyze Practice Exam Results**: After each practice exam, review the questions you got wrong. Understand why the correct answers are right and document these findings. This will help you identify patterns in your understanding and improve your performance.
+7. **Analyze Practice Exam Results**: After each practice exam, review the questions you got wrong. Understand why the correct answers are right and document these findings. This will help you identify patterns in your understanding and improve your performance.
 
 By following this structured plan, you will build a solid foundation of knowledge and skills, increasing your confidence and readiness for the PCPP exam.
 
