@@ -26,7 +26,7 @@ As a staff localization engineer, I make decisions about software and technology
 
  - Python is the best-supported langauge for AI operations. As localization comes to take advantage of AI features, Python is at the center of it all. OpenAI produces a Python library that allows developers to easily tap into AI.
 
- # What's on the PCPP Exam
+# What's on the PCPP Exam
 
 The PCPP exam is split into five areas:
 
