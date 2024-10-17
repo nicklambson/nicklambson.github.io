@@ -1137,13 +1137,23 @@ footer .copyright {
 }
 
 .post .post-thumbnail {
+  width: 100%; /* Ensure it takes the full width of its container */
+  height: auto; /* Maintain aspect ratio */
+  max-width: 100%;
+  min-height: 11rem;
+  background-size: cover; /* Ensure the background covers the container */
+  background-position: center; /* Center the background image */
+  object-fit: cover; /* Add this line to ensure the image covers the container without being cut off */
+}
+
+/* .post .post-thumbnail {
   width: 30%;
   max-width: 100%;
   min-height: 11rem;
   -webkit-background-size: cover;
           background-size: cover;
   background-position: 50% 50%;
-}
+} */
 
 .post .post-content {
   padding: 1rem;
