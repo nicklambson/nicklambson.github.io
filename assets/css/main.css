@@ -1141,8 +1141,9 @@ footer .copyright {
   height: auto; /* Maintain aspect ratio */
   max-width: 100%;
   min-height: 11rem;
-  background-size: cover; /* Ensure the background covers the container */
+  background-size: 100%; /* Ensure the background covers the container */
   background-position: center; /* Center the background image */
+  background-repeat: no-repeat;
   object-fit: cover; /* Add this line to ensure the image covers the container without being cut off */
 }
 
