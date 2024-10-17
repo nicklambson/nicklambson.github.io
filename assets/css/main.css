@@ -1245,8 +1245,7 @@ a.newer-posts:hover {
 
 .page-cover-image .page-image {
   width: auto;
-  height: auto;
-  max-height: 500px;
+  height: 500px;
   display: block;
   margin: auto;
   position: absolute;
