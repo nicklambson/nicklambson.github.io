@@ -12,31 +12,31 @@ author: Nick Lambson
 
 My parents, ages 61 and 63, are teaching at China Foreign Affairs University. With fresh eyes toward China, they immediately identified a strange and unexpected behavior from their Chinese students. When they would ask a student's opinion about something, they would always dodge the question and reply with a neutral answer to avoid offending anyone. Here is a typical interaction that I made up to illustrate this point.
 
-> **Teacher:** "Do you like cheese?"
+**Teacher:** "Do you like cheese?"
 
-> **Student:** "I recognize that cheese is a part of the diet of many people around the world."
+**Student:** "I recognize that cheese is a part of the diet of many people around the world."
 
-> **Teacher:** "Yes, but do you like it?"
+**Teacher:** "Yes, but do you like it?"
 
-> **Student:** "Well, some people like it because of its creamy texture."
+**Student:** "Well, some people like it because of its creamy texture."
 
-> **Teacher:** "Do you like cheese?"
+**Teacher:** "Do you like cheese?"
 
-> **Student:** "It has many characteristics that are enjoyable."
+**Student:** "It has many characteristics that are enjoyable."
 
-> **Teacher:** "No, you're not answering the question. Do you like cheese?"
+**Teacher:** "No, you're not answering the question. Do you like cheese?"
 
-> **Student:** "Well, to be honest, it's hard to say exactly if I like it or not."
+**Student:** "Well, to be honest, it's hard to say exactly if I like it or not."
 
-> **Teacher:** "Just answer the question: do you like cheese?"
+**Teacher:** "Just answer the question: do you like cheese?"
 
-> **Student:** "No, I don't like cheese."
+**Student:** "No, I don't like cheese."
 
-> **Teacher:** "Finally! There we go. We have heard your opinion. Why don't you like cheese?"
+**Teacher:** "Finally! There we go. We have heard your opinion. Why don't you like cheese?"
 
-> **Student:** "Because I don't digest cheese very well."
+**Student:** "Because I don't digest cheese very well."
 
-> **Teacher:** "That makes sense! Thanks for sharing your opinion."
+**Teacher:** "That makes sense! Thanks for sharing your opinion."
 
 ## Cultural Differences
 
