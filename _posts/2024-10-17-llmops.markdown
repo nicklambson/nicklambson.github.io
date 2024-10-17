@@ -1,8 +1,8 @@
 ---
 layout: post
-title: LLMOps, the building blocks for implementing LangOps
+title: LLMOps - a roadmap for building out LangOps
 date: 2024-10-17 10:00:00 +0000
-description: A summary of the deeplearning course "LLMOps"
+description: A summary of the DeepLearning.ai course LLMOps
 img: llm-application-schema.jpg
 fig-caption: 
 tags: [ai, localization, langops]
