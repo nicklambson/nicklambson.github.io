@@ -10,17 +10,17 @@ categories: [blog]
 author: Nick Lambson
 ---
 
-# LLMOps Course Overview
+## LLMOps Course Overview
 
 As a localization engineer working with artificial intelligence, I recently completed a training course on LLM (Large Language Model) applications offered by deeplearning.ai about [LLMOps](https://learn.deeplearning.ai/courses/llmops). This course was an eye-opener, providing me with a comprehensive understanding of how LLM applications are structured and how they function. Here, I’d like to share some insights from my experience.
 
-# Understanding the Structure of LLM Applications
+## Understanding the Structure of LLM Applications
 
 An LLM application is a sophisticated system that begins with the user interface. This is the point where users input their data, whether it be a question, a command, or any other form of interaction. The user interface is designed to be intuitive, ensuring that users can easily communicate with the application.
 
 Once the data is inputted, it is sent to the backend, where the real magic happens. The backend process can be broken down into three critical steps: pre-processing, grounding, and post-processing.
 
-# The Backend Process
+## The Backend Process
 
 1. **Pre-processing**: This initial step involves cleaning and preparing the input data. It ensures that the data is in the right format and context for the model to understand. This might include tasks like tokenization, normalization, and filtering out irrelevant information.
 
@@ -30,7 +30,7 @@ Once the data is inputted, it is sent to the backend, where the real magic happe
 
 Finally, the processed response is sent back to the user interface, where it is displayed as the final output. This seamless flow from input to output is what makes LLM applications so powerful and user-friendly.
 
-# Customizing a Model: The Path to Fine-Tuning
+## Customizing a Model: The Path to Fine-Tuning
 
 One of the most exciting aspects of working with LLMs is the ability to customize models to better suit specific applications. This involves three key steps: data preparation, tuning, and evaluation.
 
@@ -42,6 +42,26 @@ One of the most exciting aspects of working with LLMs is the ability to customiz
 
 By following these steps, a model can be fine-tuned to deliver more precise and contextually relevant responses, making it a valuable tool for specialized applications.
 
-# Conclusion
+## Orchestration and Automation
 
-Taking the deeplearning.ai course on LLM applications was a valuable experience. It taught me how to build and customize LLM applications. I'm eager to use what I've learned in future projects and further explore the potential of LLMs in localization.
+![Orchestration and Automation](/assets/img/llmops-orchestration-automation.jpg)
+
+The process of preparing data, training a model, evaluating its output, and deploying it to production can be labor-intensive and time-consuming. Orchestration means designing the steps of a machine learning pipeline and automation means setting up the pipeline to execute without the need for human involvement.
+
+### Kubeflow
+
+Kubeflow is an open-source tool that integrates with Python and helps developers orchestrate and automate machine learning pipelines. It leverages Kubernetes to manage and deploy these workflows, ensuring scalability and consistency across different environments. With Kubeflow, you can set up workflows using a straightforward language called a domain-specific language (DSL). Using Kubeflow to orchestrate and automate machine learning pipelines is a best practice because it simplifies the management of complex workflows, ensures consistency across different environments using Kubernetes, and allows data scientists to focus on model improvement rather than infrastructure concerns.
+
+### Orchestration
+
+Orchestration of pipeline steps is done by designating Python functions as Kubeflow components. These components are then linked together to form a complete workflow, allowing for seamless integration and execution of each step in the machine learning pipeline. This approach enhances modularity, reusability, and scalability. Once orchestration of the pipeline steps is complete, the pipeline is exported to a pipeline.yaml file, which serves as a blueprint for deploying the workflow across various environments.
+
+### Automation
+
+To execute the pipeline, you only need to provide pipeline arguments, typically in the form of a Python dictionary or a JSON file. These arguments specify essential details required for the pipeline's operation, such as the URI paths for both training and evaluation data, the model's name, and the deployment region. By clearly defining these parameters, the pipeline can be efficiently run, ensuring that all necessary resources and configurations are in place for successful execution.
+
+By modularizing the pipeline steps with Kubeflow and externalizing the pipeline arguments, the work of the developer can be automated. This setup allows for the pipeline to be executed automatically and even scheduled to run at regular intervals, ensuring continuous integration and deployment without manual intervention.
+
+## Conclusion
+
+Taking the deeplearning.ai course on LLM applications was a valuable experience. It taught me how to build and customize LLM applications, as well as orchestrate and automate machine learning pipelines. I'm eager to use what I've learned in future projects and further explore the potential of LLMs in localization.
