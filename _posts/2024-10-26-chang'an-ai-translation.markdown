@@ -40,14 +40,14 @@ A prime example of this is when I was asked to teach an intercultural communicat
 
 The participants of this training regularly travel abroad to sign multi-billion dollar deals insuring payment for Chinese goods sold internationally. International negotiations are not conducted by robots; they require a human with a firm handshake, a confident disposition, and cultural finesse. Linguists seeking to re-skill and strengthen their position against AI encroachments can step into the role of cultural consultants, training global business and government leaders to communicate effectively across cultural barriers.
 
-## My Talk
+## LangOps is the new face of localization
 
 My talk focused on LangOps as the face of localization in the AI era. With AI driving much of the language services, data and AI assume a more significant role. However, integrating everything requires forethought and strategy. That's where LangOps comes in, as the overarching vision for implementing an AI-first, data-centric, human-at-the-core localization program. Enterprises and localization suppliers are now paying extra attention to their data pipelines and AI capabilities, pushing operations toward higher efficiency and more consistent quality.
 
 ![Chang'an University Speech 2](/assets/img/changan-university-speech-2.jpg)
 
 
-## Ruying
+## Chang'an University
 
 I extend my gratitude to Ruying from Chang'an University, who arranged my travel and accommodations. She was a well-organized, prompt, and hospitable host. She introduced Chang'an University as one of the top universities in China for automotive and highway construction technology. She teaches English to Chinese students who graduate to work for Chinese vehicle manufacturers and construction companies abroad.
 
@@ -58,7 +58,7 @@ I am grateful to Professor Sun Sanjun from Beijing Foreign Studies University fo
 ![Sun Sanjun](/assets/img/sun-sanjun.jpg)
 
 
-## Habibe
+## Professor Habibe
 
 During my lecture, I mentioned that I speak Russian and a little Uzbek. Afterward, a foreign-looking woman approached me and began speaking Uzbek—or so I thought! I could only understand about 50% of what she was saying. She introduced herself as Habibe, a professor of translation at Xinjiang University. She had heard from my presentation that I speak a little Uzbek and came to introduce herself using Uyghur, her mother tongue. She has been involved in translating many works of literature, film, and TV into Uyghur.
 
