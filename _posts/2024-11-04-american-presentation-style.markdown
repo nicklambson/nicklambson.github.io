@@ -22,7 +22,8 @@ B. In a good meeting, various viewpoints are discussed and debated.
 C. In a good meeting, a formal stamp is put on a decision that has been made before the meeting.
 
 > "The large majority of Americans responding to this question chose option A. The French, however, largely chose option B. And most Chinese and Japanese selected option C. In many Asian cultures, the default purpose of a meeting is to approve a decision that has already been made in informal discussions. Therefore, the most appropriate time to express your disagreement is before the meeting to an individual rather than during the meeting in front of the group."  
-> — Erin Meyer
+> 
+> — *Erin Meyer*
 
 The purpose of a meeting in America is to make a decision.
 
@@ -51,8 +52,8 @@ Upon entering a Chinese restaurant, you've probably seen a menu like this. You f
 The best example of American style design is Apple. Steve Jobs wasn't just a high-octane CEO and technologist, he was a master storyteller. When Jobs was fired from Apple in 1985, he built Pixar, an animation company known for its universally-loved stories. In 1994, he explained:
 
 > "The most powerful person in the world is the storyteller. The storyteller sets the vision, values, and agenda of an entire generation that is to come… and Disney has a monopoly on the storyteller business. You know what? I am tired of that bullshit, I am going to be the next storyteller."
-
-> — Steve Jobs
+> 
+> — *Steve Jobs*
 
 A great presentation tells a story, and there are three parts to a great story.
 
@@ -106,8 +107,8 @@ Longtime Apple guru Guy Kawasaki established a rule: Thirty or above. All text o
 Apple's CEOs put remarkably few words on their slides. Tim Cook's slides from the Apple Silicon announcement featured the words: "Historic Day," "Apple Silicon," "Two-Year Transition," and "First system by end of year." If three words per slide is enough for Tim Cook, it's enough for me. This rule is easier to follow if you're following the other rules: one idea, one slide; show, don't tell, and 30 point font. Make every word count by limiting to three words per slide.
 
 > "I didn't have time to write you a short letter, so I wrote you a long one."
-
-> — Mark Twain
+>
+> — *Mark Twain*
 
 ## So What?
 
