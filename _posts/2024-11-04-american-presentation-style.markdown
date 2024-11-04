@@ -42,7 +42,7 @@ The Chinese bank app ICBC presents users with a wide range of buttons, menus, an
 
 Upon entering a Chinese restaurant, you've probably seen a menu like this. You feel an overwhelming sense of abundance and comfort. A great meal awaits you. You feel secure in the hands of the waiters and waitresses, knowing that such a varied and comprehensive menu can satisfy your every desire. The menu reflects the incredible skill of the Chinese chefs: they can make just about anything they can imagine. In contrast, the popular American chain In-N-Out does exactly that: gets customers in and out. Here, the menu prioritizes speed of decision making above all else. Phrases like "Ordering as easy as 1, 2, 3" reinforce this point. People come to In-N-Out for what they do best: hamburgers. Adding menu items would be a mistake. Another American chain, J-Dawgs, originated in my home state of Utah. They sell hot dogs. The menu is even simpler than In-N-Out's. It even highlights the company's commitment to high quality and fresh ingredients.
 
-![Menus](/assets/img/menus.jpg)
+![Menus](/assets/img/menus.png)
 
 ![J-Dawgs Menu](/assets/img/j-dawgs-menu.jpg)
 
@@ -51,7 +51,7 @@ Upon entering a Chinese restaurant, you've probably seen a menu like this. You f
 The best example of American style design is Apple. Steve Jobs wasn't just a high-octane CEO and technologist, he was a master storyteller. When Jobs was fired from Apple in 1985, he built Pixar, an animation company known for its universally-loved stories. In 1994, he explained:
 
 > "The most powerful person in the world is the storyteller. The storyteller sets the vision, values, and agenda of an entire generation that is to come… and Disney has a monopoly on the storyteller business. You know what? I am tired of that bullshit, I am going to be the next storyteller."
-> - Steve Jobs
+> Steve Jobs
 
 A great presentation tells a story, and there are three parts to a great story.
 
@@ -105,7 +105,7 @@ Longtime Apple guru Guy Kawasaki established a rule: Thirty or above. All text o
 Apple's CEOs put remarkably few words on their slides. Tim Cook's slides from the Apple Silicon announcement featured the words: "Historic Day," "Apple Silicon," "Two-Year Transition," and "First system by end of year." If three words per slide is enough for Tim Cook, it's enough for me. This rule is easier to follow if you're following the other rules: one idea, one slide; show, don't tell, and 30 point font. Make every word count by limiting to three words per slide.
 
 > "I didn't have time to write you a short letter, so I wrote you a long one."
-> - Mark Twain
+> Mark Twain
 
 ## So What?
 
