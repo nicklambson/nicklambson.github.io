@@ -46,12 +46,13 @@ Upon entering a Chinese restaurant, you've probably seen a menu like this. You f
 
 ![J-Dawgs Menu](/assets/img/j-dawgs-menu.jpg)
 
-## Storytelling
+## Tell a Story
 
 The best example of American style design is Apple. Steve Jobs wasn't just a high-octane CEO and technologist, he was a master storyteller. When Jobs was fired from Apple in 1985, he built Pixar, an animation company known for its universally-loved stories. In 1994, he explained:
 
 > "The most powerful person in the world is the storyteller. The storyteller sets the vision, values, and agenda of an entire generation that is to come… and Disney has a monopoly on the storyteller business. You know what? I am tired of that bullshit, I am going to be the next storyteller."
-> Steve Jobs
+
+> — Steve Jobs
 
 A great presentation tells a story, and there are three parts to a great story.
 
@@ -61,13 +62,13 @@ A great presentation tells a story, and there are three parts to a great story.
 
 The most important indicator of a good story is simply if it's interesting to listen to. If the presenter grabs the audience's attention, introduces a conflict, and resolves it, the presentation will be more impactful.
 
-## Minimalism
+## Less is More
 
 In contrast to the Chinese emphasis on high information density, Westerners have a popular phrase: "less is more." This is the design philosophy of minimalism. 
 
 Here are some expressions of this design philosophy. Each slide has a maximum of three items to pay attention to. Slides don't have much text. Short phrases are preferred over sentences. Numbers are emphasized the most because numbers and facts tell a story and give evidence. Numbers are represented visually in graphs and charts to make a compelling case. Western design uses plenty of whitespace, which directs the viewer's eye to what is most important. 
 
-## Slide Deck versus Memo
+## Save it for the Memo
 
 Many Chinese presenters use the slide deck the same way they would a Word document, cramming in "walls of text" that distract the audience from the speaker. What they don't realize is that there's another document that's intended to deliver textual facts in an organized way: the memo. A memo is a concise document that summarizes key points and provides detailed information in a structured format. It allows the audience to focus on the presentation itself, while having access to all necessary details in a separate, easily digestible form. By using memos effectively, presenters can maintain the audience's attention and ensure that their message is communicated clearly and efficiently.
 
@@ -105,7 +106,8 @@ Longtime Apple guru Guy Kawasaki established a rule: Thirty or above. All text o
 Apple's CEOs put remarkably few words on their slides. Tim Cook's slides from the Apple Silicon announcement featured the words: "Historic Day," "Apple Silicon," "Two-Year Transition," and "First system by end of year." If three words per slide is enough for Tim Cook, it's enough for me. This rule is easier to follow if you're following the other rules: one idea, one slide; show, don't tell, and 30 point font. Make every word count by limiting to three words per slide.
 
 > "I didn't have time to write you a short letter, so I wrote you a long one."
-> Mark Twain
+
+> — Mark Twain
 
 ## So What?
 
