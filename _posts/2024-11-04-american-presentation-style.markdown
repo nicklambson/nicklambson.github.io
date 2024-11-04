@@ -22,7 +22,7 @@ B. In a good meeting, various viewpoints are discussed and debated.
 C. In a good meeting, a formal stamp is put on a decision that has been made before the meeting.
 
 > "The large majority of Americans responding to this question chose option A. The French, however, largely chose option B. And most Chinese and Japanese selected option C. In many Asian cultures, the default purpose of a meeting is to approve a decision that has already been made in informal discussions. Therefore, the most appropriate time to express your disagreement is before the meeting to an individual rather than during the meeting in front of the group."  
-> — Erin 
+> — Erin Meyer
 
 The purpose of a meeting in America is to make a decision.
 
