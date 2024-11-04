@@ -104,7 +104,7 @@ Longtime Apple guru Guy Kawasaki established a rule: Thirty or above. All text o
 
 ## Three Words Per Slide
 
-Apple's CEOs put remarkably few words on their slides. Tim Cook's slides from the Apple Silicon announcement featured the words: "Historic Day," "Apple Silicon," "Two-Year Transition," and "First system by end of year." If three words per slide are enough for Tim Cook, it's enough for me. This rule is easier to follow if you're following the other rules: one idea, one slide; show, don't tell, and 30-point font. Make every word count by limiting to three words per slide.
+Apple's CEOs Steve Jobs and Tim Cook put remarkably few words on their slides. Tim Cook's slides from the Apple Silicon announcement featured the words: "Historic Day," "Apple Silicon," "Two-Year Transition," and "First system by end of year." If three words per slide are enough for Tim Cook, it's enough for me. This rule is easier to follow if you're following the other rules: one idea, one slide; show, don't tell, and 30-point font. Make every word count by limiting to three words per slide.
 
 > "I didn't have time to write you a short letter, so I wrote you a long one."
 >
