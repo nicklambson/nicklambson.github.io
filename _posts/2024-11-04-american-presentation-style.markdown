@@ -42,7 +42,7 @@ The Chinese bank app ICBC presents users with a wide range of buttons, menus, an
 
 Upon entering a Chinese restaurant, you've probably seen a menu like this. You feel an overwhelming sense of abundance and comfort. A great meal awaits you. You feel secure in the hands of the waiters and waitresses, knowing that such a varied and comprehensive menu can satisfy your every desire. The menu reflects the incredible skill of the Chinese chefs: they can make just about anything they can imagine. In contrast, the popular American chain In-N-Out does exactly that: gets customers in and out. Here, the menu prioritizes speed of decision making above all else. Phrases like "Ordering as easy as 1, 2, 3" reinforce this point. People come to In-N-Out for what they do best: hamburgers. Adding menu items would be a mistake. Another American chain, J-Dawgs, originated in my home state of Utah. They sell hot dogs. The menu is even simpler than In-N-Out's. It even highlights the company's commitment to high quality and fresh ingredients.
 
-![Menus](/assets/img/menus.png)
+![Menus](/assets/img/menus.jpg)
 
 ![J-Dawgs Menu](/assets/img/j-dawgs-menu.jpg)
 
