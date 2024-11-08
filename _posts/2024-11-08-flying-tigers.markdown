@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Flying Tigers: Heroes in War, Neighbors in Peace
+title: "Flying Tigers: Heroes in War, Neighbors in Peace"
 date: 2024-11-08 12:00:00 +0000
 description: The Flying Tigers' legacy is revived as a symbol of Chinese-American friendship.
 img: valor-and-memory.jpg
