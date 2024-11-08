@@ -23,7 +23,7 @@ The military impact of the Flying Tigers is hard to assess. But two things are f
 In the Q&A session, a Chinese national expressed his trepidation at the prospects of more turbulent US-China relations under the incoming leadership. The film's director, Bill Einreinhofer, advised: "We've got to establish ways to communicate about things other than our differences. Find ways to keep talking. Find stories of American heroes. Of Chinese heroes. Of Chinese American heroes." I echo Bill's advice and aim to be a conduit for mutual understanding between these two great nations. Let's tell the stories of these heroes and emulate their courage and dedication.
 
 <figure>
-  <img src="{{site.url}}/assets/img/bill-einreinhofer.jpg" alt="Bill Einreinhofer on the Panel"/>
+  <img src="{{site.baseurl}}/assets/img/bill-einreinhofer.jpg" alt="Bill Einreinhofer on the Panel"/>
   <figcaption>Director Bill Einreinhofer answers questions during a Q&A session after the premiere of the film Valor and Memory at the United States Embassy in Beijing.</figcaption>
 </figure>
 
@@ -34,6 +34,6 @@ In the Q&A session, a Chinese national expressed his trepidation at the prospect
 This Veterans Day, I hope the Flying Tigers' legacy will spread far and wide among Americans and will endure long into the future. As we honor our veterans this weekend, may these heroes in war make us neighbors in peace as their story is told in this inspiring and touching documentary, _Valor and Memory_.
 
 <figure>
-  <img src="{{site.url}}/assets/img/flying-tigers-jackets.jpg" alt="Flying Tigers Jackets"/>
+  <img src="{{site.baseurl}}/assets/img/flying-tigers-jackets.jpg" alt="Flying Tigers Jackets"/>
   <figcaption>Zou Dehuai and I pose for a photo in our Flying Tigers jackets. He is the curator of the historical photo exhibit: Heroes in War, Neighbors in Peace.</figcaption>
 </figure>
