@@ -53,7 +53,7 @@ There are several cons of using Canvas. Technically, my data is not self-hosted.
 
 Another downside is that the free version of Canvas doesn’t support uploading more than 500 MB per course. I find that plain text, HTML, Word docs, and PDFs don't dent the max capacity. Images can add up quickly. You need to compress them to JPEG before uploading them. Videos will quickly exceed the limit. If you're going to upload videos to Canvas, consider recording your videos at 720P, 10 frames per second. Then, use Handbrake to compress the video.
 
-To work with the file upload limitation, I upload my videos to my university’s cloud storage called YunPan. Then, I just link to the videos on the cloud storage from Canvas. My students also have access to the same university cloud storage, and I can easily share these videos with them.
+To work with the file upload limitation, I upload my videos to my university’s cloud storage. Then, I just link to the videos on the cloud storage from Canvas. My students also have access to the same university cloud storage, they have access to all my videos.
 
 ### Favorite features
 
@@ -62,11 +62,11 @@ The rubric feature is especially good. It provides a quick formula for me to use
 I like using the mobile app. I am frequently on the move, away from my computer. But I can quickly go to the mobile app to give a grade to a student or leave a comment.
 
 It’s easy to weight assignment groups. Here are the weightings for my advanced English reading and writing class:
-Midterm exam: 30%
-Final exam: 30%
-Writing assignments: 15%
-Writing labs: 10%
-Reading quizzes: 15%
+ - Midterm exam: 30%
+ - Final exam: 30%
+ - Writing assignments: 15%
+ - Writing labs: 10%
+ - Reading quizzes: 15%
 
 Once the semester is over, the final grades are already calculated automatically.
 
