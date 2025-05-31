@@ -1,6 +1,6 @@
 ---
 layout: post
-title: From LearnPress to Canvas: My Journey to a Better LMS
+title: "Why I Switched to Canvas LMS"
 date: 2025-05-10 12:41:00 +0000
 description: Canvas offers excellent features, and it's free for teachers.
 img: canvas.jpg
@@ -9,6 +9,7 @@ tags: [education, ai]
 categories: [blog]
 author: Nick Lambson
 ---
+
 Canvas is a learning management system (LMS) based in Salt Lake City, Utah. Although that's where I grew up, my road to Canvas has a roundabout one.
 
 ## Cyber Attack
