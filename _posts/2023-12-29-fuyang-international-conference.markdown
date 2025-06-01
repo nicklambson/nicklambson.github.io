@@ -3,7 +3,7 @@ layout: post
 title: Why I teach programming to translators
 date: 2023-12-29 10:00:00 +0000
 description: Python gives language students the skills they need to succeed in the AI era.
-img: fuyang-1.jpg
+img: fuyang-1.JPG
 tags: [localization, ai, education, china]
 categories: [blog]
 author: Nick Lambson
