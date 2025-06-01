@@ -9,7 +9,7 @@ categories: [blog]
 author: Nick Lambson
 ---
 
-## Event Smmary
+## Event Summary
 
 On December 29, 2023, I spoke at the _International Conference on Translation Discipline Construction and the Cultivation of International Communication Talent in the New Era_ in Fuyang, China. My host, Shining, was very gracious. I was also pleased to meet two other language professionals in China: Kizito Tekwa from Shenzhen Technology University, and Muhammad Afzaal, from Shanghai International Studies University. I hope to visit Fuyang again some time!
 
