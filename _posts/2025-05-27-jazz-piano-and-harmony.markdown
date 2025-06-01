@@ -14,7 +14,7 @@ On May 27, 2025, the School of Arts at Beijing Language and Culture University s
 
 ![Jazz Workshop Photo 2](/assets/img/jazz-workshop-2.jpg)
 
-The concert began with a lively jazz piano piece performed by Mr. Lambson, setting an energetic and creative tone for the event. From basic harmonic theory to jazz-style chord progressions, and then to an in-depth analysis of classic scores, Mr. Lennick used vivid performance and detailed explanation to lead students into the fascinating world of jazz music.
+The concert began with a lively jazz piano piece performed by Mr. Lambson, setting an energetic and creative tone for the event. From basic harmonic theory to jazz-style chord progressions, and then to an in-depth analysis of classic scores, Mr. Lambson used vivid performance and detailed explanation to lead students into the fascinating world of jazz music.
 
 The activity not only deepened students’ understanding of piano improvisational accompaniment but also broadened their learning perspectives in related fields. The all-English presentation further enhanced their grasp and practical ability with professional terminology.
 
