@@ -10,7 +10,13 @@ categories: [blog]
 author: Nick Lambson
 ---
 
-On Saturday, June 7th, 2025, I was invited to speak at a national lecture series on AI. I delivered a lecture called "Structured Prompt Engineering and Practical Applications in Professional Contexts." The below text is an English translation of a pre-lecture interview conducted by the organizer.
+On Saturday, June 7th, 2025, I was invited to speak at a national lecture series on AI. Speakers included
+ - ZHONG Wenming（仲文明）Professor at the Central South University and Dean of the School of Foreign Languages
+ - Nick Lambson（兰尼克）Senior Foreign Lecturer at Beijing Language and Culture University and Staff Engineer at MediaLocate
+ - GE Zhongjun（葛仲君）Head of International Product Localization at ByteDance
+ - GAO Yawei（郭亚文）Associate Professor at Northwest Normal University
+ 
+I delivered a lecture called "Structured Prompt Engineering and Practical Applications in Professional Contexts." The below text is an English translation of a pre-lecture interview conducted by the organizer.
 
 Reposted from WeChat: https://mp.weixin.qq.com/template/article/1749370234/index.html
 
