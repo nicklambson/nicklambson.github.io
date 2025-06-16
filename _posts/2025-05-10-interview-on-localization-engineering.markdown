@@ -49,7 +49,7 @@ We can divide localization engineer skills into two broad categories: technical 
     - Fonts, encoding, and internationalisation best practices
     - Localization industry formats: XLIFF, TMX, TBX
 
-- **Reference Tools:**
+- **Tools and Systems:**
     - CAT tools: memoQ, SDL Trados Studio
     - TMS: WorldServer, XTM, Memsource (Phrase)
     - Other tools: Passolo, ApSIC Xbench, Okapi Rainbow, Okapi Checkmate, BeyondCompare, BulkRenameUtility, UTFCast
