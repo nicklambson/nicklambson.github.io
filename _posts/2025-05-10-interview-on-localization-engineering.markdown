@@ -78,7 +78,7 @@ We can divide localization engineer skills into two broad categories: technical 
 
 ---
 
-## Reference Support Tools and Operative Approaches
+## Tools and Operating Procedures
 
 **Marco Pirrone:** Can you mention some reference support tools and operative approaches which can be useful during localization engineering tasks?
 
