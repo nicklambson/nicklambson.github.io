@@ -27,7 +27,7 @@ A localization engineer facilitates the technical aspects of a localization proj
 
 ---
 
-## Required Technical and Communicative Skills
+## Required Technical and Soft Skills
 
 **Marco Pirrone:** In your opinion, what kinds of technical and communicative skills should be possessed by Localization Engineers, especially in order to act as bridgers profiles between programmers and localizers?
 
@@ -64,7 +64,7 @@ We can divide localization engineer skills into two broad categories: technical 
     - Command line and scripting (e.g., VBA in Office)
     - Connecting via APIs
 
-### Soft (Communicative) Skills
+### Soft Skills
 
 - **Work Estimation & Project Planning:** Accurately estimate effort, including best- and worst-case scenarios.
 - **Technical Communication:** Explain technical concepts to non-technical audiences and educate both clients and team members about technical issues or best practices.
