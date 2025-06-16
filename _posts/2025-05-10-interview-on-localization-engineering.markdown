@@ -14,7 +14,7 @@ author: Nick Lambson
 
 # Interview with Nicholas Lambson: The Localization Engineer Profile
 
-The below interview was conducted by Marco Pirrone, a student of mine through Localization Summer School.
+The below interview was conducted by Marco Pirrone, a student of mine through Localization Summer School. I have enhanced it with AI after the interview to more comprehensively reflect my perspective.
 
 ---
 
