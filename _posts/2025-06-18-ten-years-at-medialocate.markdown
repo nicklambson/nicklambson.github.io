@@ -39,11 +39,12 @@ The young graduates from BLCU's localization program were an attractive source o
 I also met Christy Tang, who continues to play an important role in the company. She started as my localization engineering assistant, but has now grown into an excellent localization engineer herself. She and I automate as much as we can, and then she very reliably handles the daily requests from our clients. She has been an all-star of our team.
 
 ## My Philosophy of Value Creation
-I believe in this philosophy of adding value. Whenever I receive a task, I follow these steps.
-1) Do it.
-2) Automate it.
-3) Document it.
-4) Delegate it.
+I believe in this philosophy of adding value. Whenever I receive a task, I follow these steps:
+
+1. Do it
+2. Automate it 
+3. Document it
+4. Delegate it
 
 I first do the project several times to learn the ins-and-outs. I then automate as much as I can using any tools available: Python, VBA, JavaScript, etc. The automation eventually turns into an executable, runnable with the click of a button. I then document how to use this executable, as well as perform anything else that can't be automated. Finally, I send my automation and my documentation to a trusted colleague. They run the automation and perform the steps in the documentation, only looping me in if something goes amiss.
 
