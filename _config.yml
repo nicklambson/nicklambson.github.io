@@ -1,6 +1,6 @@
 title: Nick Lambson
 description: > # this means to ignore newlines until "baseurl:"
-  Nick Lambson is a localization engineer and teacher living in Beijing, China.
+  Nick Lambson is a an AI engineer and educator of localization systems living in Beijing, China.
 permalink: ':title/'
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "nicklambson.github.io" # the base hostname & protocol for your site, e.g. http://example.com
@@ -9,7 +9,7 @@ site-twitter: #if your site has a twitter account, enter it here
 # Author Settings
 author: Nick Lambson # add your name
 author-img: nick-lambson-portrait.jpg # add your photo
-about-author: Staff Localization Engineer at MediaLocate, Senior Foreign Teacher at Beijing Language and Culture University
+about-author: Staff AI Engineer - Localization Systems at MediaLocate, Senior Foreign Teacher at Beijing Language and Culture University
 
 social-github: nicklambson # add your Github handle
 social-linkedin: nicklambson
