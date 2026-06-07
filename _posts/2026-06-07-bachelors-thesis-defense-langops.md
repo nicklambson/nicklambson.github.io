@@ -1,8 +1,13 @@
 ---
 layout: post
-title: "LangOps and Intelligent Language Studies by the Class of 2026"
+title: LangOps and Intelligent Language Studies by the Class of 2026
 date: 2026-06-07
-categories: [LangOps, education, localization]
+description: Seeing four years of effort come to fruition in these multilingual projects.
+img: blcu.png
+fig-caption: 
+tags: [langops, education, localization, ai]
+categories: [blog]
+author: Nick Lambson
 ---
 
 Every June, the thesis defenses tell me more about where our field is heading than any conference keynote does. This year's cohort in BLCU's AI Translation program just defended, and as I sat through presentation after presentation, one thing became impossible to ignore: not a single student turned in "a translation." Every one of them built a system.
