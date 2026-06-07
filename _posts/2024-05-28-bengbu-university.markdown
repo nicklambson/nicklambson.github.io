@@ -9,7 +9,7 @@ categories: [blog]
 author: Nick Lambson
 ---
 
-Friends at the Bengbu University School of Translation invited me to deliver a guest lecture to their faculty and student body on uses of AI for cultural translation.
+Friends at the Bengbu University School of Translation invited me to deliver a guest lecture to their faculty and student body on uses of AI for cultural translation. You can read [their writeup of my visit](https://www.bbc.edu.cn/2024/0531/c21a106332/page.htm).
 
 # AI for Slogan Translation
 
