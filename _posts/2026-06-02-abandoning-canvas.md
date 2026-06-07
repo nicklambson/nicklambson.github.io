@@ -10,7 +10,7 @@ categories: [blog]
 author: Nick Lambson
 ---
 
-I was a **Canvas promoter**. I gave trainings to university instructors coming to China through the **BYU Kennedy Center's China Teachers Program**. I organized a Canvas training with **Macau University** and delivered it in Guangdong at **Shaoguan Polytechnic University**. I even wrote a [blog post about it in 2025](/2025-05-09-learnpress-to-canvas), praising its features. I used Canvas in trainings at the **China Export and Credit Insurance company** as well as the **Three Gorges Corporation**. I managed **about two dozen courses** on Canvas at **Beijing Language and Culture University**, **China Agricultural University's MBA program**, and even **Peking University**. I was, unmistakably, a Canvas disciple and power user.
+I was a **Canvas promoter**. I gave trainings to university instructors coming to China through the **BYU Kennedy Center's China Teachers Program**. I organized a Canvas training with **Macau University** and delivered it in Guangdong at **Shaoguan Polytechnic University**. I even wrote a [blog post about it in 2025](https://nicklambson.com/learnpress-to-canvas/), praising its features. I used Canvas in trainings at the **China Export and Credit Insurance company** as well as the **Three Gorges Corporation**. I managed **about two dozen courses** on Canvas at **Beijing Language and Culture University**, **China Agricultural University's MBA program**, and even **Peking University**. I was, unmistakably, a Canvas disciple and power user.
 
 ---
 
