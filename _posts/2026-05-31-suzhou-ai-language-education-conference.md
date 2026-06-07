@@ -3,7 +3,7 @@ layout: post
 title: AI in Language Education at Suzhou University, 2026
 date: 2026-05-31 10:00:00 +0800
 description: A summary of keynote research from the May 2026 symposium on foreign language teaching reform in the AI era.
-img: suzhou_conference_2026.png
+img: suzhou_conference_2026.jpg
 fig-caption: 
 tags: [ai, education, langops, localization]
 categories: [blog]
@@ -14,7 +14,7 @@ On May 29–31, 2026, I returned to [Suzhou University](https://nicklambson.gith
 
 Below is my summary of the keynote research. I have organized it by theme rather than by speaker order, because that is how the ideas actually connected in the room.
 
-![Suzhou Conference 2026](/assets/img/suzhou_conference_2026.png)
+This post was written with the assistance of AI.
 
 ## Three tensions running through the conference
 
